@@ -1,9 +1,7 @@
 # Lenia - Visual
 
-This repository is the visual of the Game Of Life algorithm. It also serve as a example to how create a visual for CAMI app.
+This repository is the visual of the Lenia algorithm. It also serve as a example to how create a visual for CAMI app.
 You can create your own visual by following the instructions in this document.
-
-![Example of Game Of Life](./public/example.gif)
 
 ## Requirements
 
